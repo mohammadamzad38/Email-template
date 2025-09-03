@@ -1,0 +1,322 @@
+{
+  "Template": {
+    "TemplateName": "interestreceived",
+    "SubjectPart": "Interest Received",
+    "HtmlPart": "<html>
+  <head>
+    <title>Interest Received</title>
+  </head>
+  <body style="margin: 0; padding: 0; background-color: #ffffff">
+    <table
+      align="center"
+      width="640px"
+      cellspacing="0"
+      cellpadding="0"
+      border="0"
+      style="
+        max-width: 640px;
+        width: 100%;
+        background-color: #f4f4fb;
+        padding: 32px;
+        margin: auto;
+      "
+    >
+      <!-- Header Section -->
+      <tr align="center">
+        <td>
+          <a target="_blank" href="#">
+            <img
+              src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/logo.jpg"
+              alt="logo"
+            />
+          </a>
+          <p style="font-size: 41px; padding: 32px 0 10px; margin: 0">
+            Interest Received From Rasheda
+          </p>
+          <p style="font-size: 20px; margin: 0; margin-bottom: 10px">
+           {{date}}
+          </p>
+        </td>
+      </tr>
+
+      <!-- Middle Section -->
+      <tr>
+        <td
+          style="
+            background-color: white;
+            text-align: start;
+            padding: 32px;
+            padding-bottom: 0;
+            font-size: 20px;
+            border-radius: 4px;
+          "
+        >
+          <p>Dear {{name}},</p>
+          <p style="font-weight: bold">
+            Rasheda has shown interest in your profile.
+          </p>
+          <p>
+            You can see her profile here. To chat with <a href="#">her</a>,
+            click on “Chat with Rasheda”.
+          </p>
+
+          <tr>
+            <td
+              style="
+                background-color: white;
+                text-align: start;
+                padding: 32px;
+                padding-top: 20px;
+                font-size: 20px;
+                border-radius: 4px;
+              "
+            >
+              <table style="border-spacing: 0px; width: 100%">
+                <tr style="background-color: #f4f4fb; border-radius: 10px">
+                  <td
+                    style="
+                      width: 99px;
+                      border-bottom-left-radius: 8px;
+                      border-top-left-radius: 8px;
+                      padding: 0px;
+                      padding-right: 25px;
+                      padding-left: 5px;
+                      height: 99px;
+                    "
+                  >
+                    <a href="#"
+                      ><img
+                        style="width: 100%; padding: 5px; border-radius: 15px"
+                        src="../profile.jpg"
+                        alt="Profile Image"
+                    /></a>
+                  </td>
+                  <td style="padding: 0px; overflow-block: auto">
+                    <p style="font-weight: bold; text-wrap: 1; margin-top: 0px">
+                      Nushaiba Binte
+                    </p>
+                    <p
+                      style="
+                        color: #b2b6c2;
+                        font-size: 14px;
+                        margin: 0;
+                        margin-bottom: 8px;
+                      "
+                    >
+                      21 years
+                    </p>
+                    <p style="color: #b2b6c2; font-size: 14px; margin: 0">
+                      Calgary, Canada
+                    </p>
+                  </td>
+                  <td
+                    align="end"
+                    style="
+                      padding: 0px;
+                      border-bottom-right-radius: 8px;
+                      border-top-right-radius: 8px;
+                      padding-right: 10px;
+                      width: 120px;
+                    "
+                  >
+                    <a
+                      style="
+                        font-size: 14px;
+                        padding: 10px 12px;
+                        border-radius: 10px;
+                        text-decoration: none;
+                        background-color: #ba0060;
+                        color: white;
+                      "
+                      href="#"
+                      >Chat with her</a
+                    >
+                  </td>
+                </tr>
+              </table>
+              <p style="padding-top: 15px">
+                Best wishes,<br />NobleMarriage Team
+              </p>
+            </td>
+          </tr>
+        </td>
+      </tr>
+
+      <!-- Footer Section -->
+
+      <tr style="background-color: #eae6ed">
+        <td style="padding: 32px; border-radius: 4px">
+          <table align="center">
+            <tr align="center">
+              <td>
+                <p style="font-size: 16px">
+                  If you need any assistance, contact our support team.
+                </p>
+                <a href="https://wa.me/447501247364">
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/whatsapp-chat.jpg"
+                    alt="whatsapp Button"
+                    style="border-radius: 25%"
+                  />
+                </a>
+                <p style="color: #310048; font-weight: bold; font-size: 18px">
+                  Download Our APP
+                </p>
+              </td>
+            </tr>
+
+            <tr align="center">
+              <td style="padding-bottom: 24px">
+                <a style="margin-right: 30px; text-decoration: none" href="#">
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/appStore.jpg"
+                    alt="apple Store"
+                  />
+                </a>
+                <a href="#">
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/googlePlay.jpg"
+                    alt="playStore"
+                  />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="width: 524px; background-color: #c2c7d0"></td>
+            </tr>
+
+            <tr>
+              <td
+                style="padding-top: 24px; text-align: center; font-size: 16px"
+              >
+                <p>© 2024 NobleMarriage. All rights reserved.</p>
+              </td>
+            </tr>
+
+            <tr>
+              <td align="center" valign="middle" style="padding: 10px">
+                <a
+                  href="https://www.facebook.com/NobleMarriage/"
+                  style="margin-right: 10px; text-decoration: none"
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/facebook.jpg"
+                    alt="Facebook"
+                    width="30"
+                    height="30"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+                <a
+                  href="https://www.instagram.com/noblemarriage/"
+                  style="margin-right: 10px; text-decoration: none"
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/instagram.jpg"
+                    alt="Instagram"
+                    width="28"
+                    height="28"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+                <a
+                  href="https://wa.me/447501247364"
+                  style="
+                    margin-right: 15px;
+                    background-color: #25d366;
+                    border-radius: 50%;
+                    display: inline-block;
+                    border-radius: 100%;
+                  "
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/WhatsAppButtonGreenSmall.jpg"
+                    alt="WhatsApp"
+                    width="30"
+                    height="30"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+                <a
+                  href="https://x.com/NobleMarriageHQ"
+                  style="
+                    margin-right: 15px;
+                    background-color: black;
+                    padding: 2px;
+                    border-radius: 20%;
+                    display: inline-block;
+                    border-radius: 100%;
+                  "
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/tweeter.jpg"
+                    alt="Twitter"
+                    width="25"
+                    height="25"
+                    style="display: block; border-radius: 100%"
+                  />
+                </a>
+                <a
+                  href="https://www.youtube.com/@noblemarriage"
+                  style="margin-right: 15px; text-decoration: none"
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/Youtube.jpg"
+                    alt="YouTube"
+                    width="30"
+                    height="30"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+                <a
+                  href="https://www.linkedin.com/company/noblemarriage/"
+                  style="margin-right: 15px; text-decoration: none"
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/LinkedIn.jpg"
+                    alt="LinkedIn"
+                    width="30"
+                    height="30"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+                <a
+                  href="https://www.pinterest.com/noblemarriage/"
+                  style="margin-right: 10px; text-decoration: none"
+                >
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/pinterest.jpg"
+                    alt="Pinterest"
+                    width="30"
+                    height="30"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+                <a href="https://www.reddit.com/user/noblemarriage/">
+                  <img
+                    src="https://noble-marriage-cdn-bucket.s3.ap-southeast-1.amazonaws.com/emailassets/reddit.jpg"
+                    alt="Reddit"
+                    width="30"
+                    height="30"
+                    style="display: inline-block; border-radius: 100%"
+                  />
+                </a>
+              </td>
+            </tr>
+            <tr align="center">
+              <td>
+                <p style="font-size: 16px">
+                  If you prefer not to receive emails like this, you may
+                  <a href="#">unsubscribe</a>.
+                </p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>"
+  }
+}
