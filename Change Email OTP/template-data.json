@@ -1,0 +1,10 @@
+[
+  {
+    "TemplateName": "Change Email OTP",
+    "TemplateData": {
+      "name": "",
+      "Date": "",
+      "OTP" : ""
+    }
+  }
+]
